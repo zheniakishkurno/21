@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwovcPYJncuEWoJ7o8mW4tCzvCJqGT9kRWoss+Vmnbjx+g48oJfTXqXL/8eH2156UW7HV+5dhPbyTfiCXMqnZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diablo\\Desktop\\УП 3 Курс курсач\\21 12\\21 bj\\21 bj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diablo\\.nuget\\packages\\jquery.ui.theme.flat\\1.10.3\\jquery.ui.theme.flat.1.10.3.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\system.data.oledb\\7.0.0\\system.data.oledb.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\system.diagnostics.performancecounter\\7.0.0\\system.diagnostics.performancecounter.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Diablo\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

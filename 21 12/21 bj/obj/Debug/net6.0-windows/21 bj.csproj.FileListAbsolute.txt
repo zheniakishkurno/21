@@ -1,0 +1,58 @@
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\bin\Debug\net6.0-windows\21 bj.exe
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\bin\Debug\net6.0-windows\21 bj.deps.json
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\bin\Debug\net6.0-windows\21 bj.runtimeconfig.json
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\bin\Debug\net6.0-windows\21 bj.dll
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\bin\Debug\net6.0-windows\21 bj.pdb
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\_21_bj.Form1.resources
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.csproj.GenerateResource.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.GeneratedMSBuildEditorConfig.editorconfig
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.AssemblyInfoInputs.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.AssemblyInfo.cs
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.csproj.CoreCompileInputs.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.dll
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\refint\21 bj.dll
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.pdb
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.genruntimeconfig.cache
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\ref\21 bj.dll
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\_21_bj.Properties.Resources.resources
+\\mcb.local\RoamingProfiles$\StudentsData\1216621\Desktop\УП\21\21 bj\21 bj\obj\Debug\net6.0-windows\_21_bj.Form2.resources
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21\21 bj\21 bj\obj\Debug\net6.0-windows\refint\21 bj.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21\21 bj\21 bj\obj\Debug\net6.0-windows\21 bj.pdb
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\refint\21 bj.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.pdb
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\21 bj.exe
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\21 bj.deps.json
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\21 bj.runtimeconfig.json
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\21 bj.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\21 bj.pdb
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\_21_bj.Properties.Resources.resources
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.csproj.GenerateResource.cache
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.AssemblyInfoInputs.cache
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.AssemblyInfo.cs
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.csproj.CoreCompileInputs.cache
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.genruntimeconfig.cache
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\ref\21 bj.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.csproj.AssemblyReference.cache
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.csproj.CopyComplete
+C:\Users\Diablo\Desktop\Новая папка\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\21 bj.csproj.AssemblyReference.cache
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\_21_bj.Form1.resources
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\_21_bj.Form2.resources
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\_21_bj.Form4.resources
+C:\Users\Diablo\Desktop\УП 3 Курс курсач\21 12\21 bj\obj\Debug\net6.0-windows\_21_bj.Form3.resources
